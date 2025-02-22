@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: rgb(130, 106, 251);
+}
+
+button{
+    margin: 35px 0 10px 120px;
+    background-color: rgb(130, 106, 251);
+    border-radius: 7px;
+    color: white;
+    width: 100px;
+    height: 35px;
+}
